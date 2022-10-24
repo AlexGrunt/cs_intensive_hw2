@@ -1,8 +1,8 @@
 Init message for first commit.
 Nothing more, nothing less
-
-MADE VK 2022
-Intensive computer science
+:pepe:
+MADE VK 2022. October Fest 2022.
+Intensive computer science. I miss the summer nights
 This course was very useful
 
 I', going to add two more lines for this file
