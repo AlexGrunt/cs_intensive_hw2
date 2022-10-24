@@ -1,10 +1,8 @@
 Init message for first commit.
 Nothing more, nothing less
 
-MADE VK 2022
-Intensive computer science
-This course was very useful
-
-I', going to add two more lines for this file
+I'm, going to add two more lines for this file
 To create some dummy commits
+
+Some new lines
 
