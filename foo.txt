@@ -1,6 +1,6 @@
-Init message for first commit.
-Nothing more, nothing less
-
+Init message for first commit. And some addition for merge conflict.
+This line is brand new for this file.
+Hello world! Foo BOO !
 I'm, going to add two more lines for this file
 To create some dummy commits
 
