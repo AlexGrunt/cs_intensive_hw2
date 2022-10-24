@@ -1,0 +1,2 @@
+Init message for first commit.
+Nothing more, nothing less
