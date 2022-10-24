@@ -2,3 +2,5 @@ Init message for first commit.
 Nothing more, nothing less
 
 MADE VK 2022
+Intensive computer science
+This course was very useful
